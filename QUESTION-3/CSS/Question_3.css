@@ -1,0 +1,63 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: cursive;
+    color: #264348 ;
+}
+
+#navigation
+{
+    height: 50px;
+    width: 100%;
+    background-color: #264348;
+}
+
+#logo
+{
+    width: 5%;
+    height: 50px;
+    float: left;
+}
+
+#logo img
+{
+    height: 50px;
+    width: 100%;
+}
+
+#menu
+{
+    height: 50px;
+    width: 85%;
+    float: left;
+}
+
+#menu ul li
+{
+    display: inline;
+    text-decoration: none;
+    color: white;
+    padding: 0px 50px;
+}
+
+#menu ul
+{
+    line-height: 0.5;
+    float: right;
+}
+
+#vertical_menu
+{
+    height: auto;
+    width: 10%;
+    color: white;
+}
+
+#vertical_menu li
+{
+    padding: 5px 5px;
+    display: block;
+    text-decoration: none;
+}

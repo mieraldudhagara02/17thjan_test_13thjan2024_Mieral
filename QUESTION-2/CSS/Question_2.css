@@ -1,0 +1,14 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: cursive;
+    color: #264348 ;
+}
+
+.marquee
+{
+    color: white;
+    line-height: 2.5;
+}

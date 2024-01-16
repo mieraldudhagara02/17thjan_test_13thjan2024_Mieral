@@ -1,0 +1,54 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: cursive;
+    color: #264348 ;
+}
+
+#container
+{
+    height: 300px;
+    width: 50%;
+    background-color: rgb(216, 216, 216);
+    position: relative;
+    margin: auto;
+}
+
+#one
+{
+    height: 200px;
+    width: 200px;
+    background-color: #264348;
+    position: absolute;
+    z-index: 1;
+    top: 20px;
+    left: 250px;
+    color: white;
+    border: 2px solid white;
+}
+
+#two
+{
+    height: 200px;
+    width: 200px;
+    background-color: #00d5ff;
+    position: absolute;
+    z-index: 2;
+    top: 50px;
+    left: 280px;
+    border: 2px solid #264348;
+}
+
+#three
+{
+    height: 200px;
+    width: 200px;
+    background-color: #b5f4ff;
+    position: absolute;
+    z-index: 3;
+    top: 80px;
+    left: 310px;
+    border: 2px solid #264348;
+}

@@ -1,0 +1,24 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: cursive;
+    color: #264348 ;
+}
+
+#container
+{
+    height: auto;
+    width: 50%;
+    margin: auto;
+    border: 2px solid #264348;
+}
+
+#miral
+{
+    text-align: center;
+    padding: 50px;
+    margin: 50px;
+    border: 50px solid lightseagreen;
+}
