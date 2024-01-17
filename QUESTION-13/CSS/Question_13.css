@@ -1,0 +1,69 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: cursive;
+    color: #264348 ;
+}
+
+#container
+{
+    height: auto;
+    width: 40%;
+    margin: auto;
+    border: 5px double #264348;
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+
+#multiplication
+{
+    font-size: 20px;
+    font-family: cursive;
+    color: #264348;
+    margin: 30px 10px 10px;
+    padding: 3px 5px;
+    background-color: transparent;
+    border: 2px solid #264348;
+    cursor: pointer;
+}
+
+#division
+{
+    font-size: 20px;
+    font-family: cursive;
+    color: #264348;
+    margin: 30px 10px 10px;
+    padding: 3px 5px;
+    background-color: transparent;
+    border: 2px solid #264348;
+    cursor: pointer;
+}
+
+input
+{
+    background-color: transparent;
+    font-size: 20px;
+    border: 2px solid #264348;
+    font-family: cursive;
+    color: #264348;
+}
+
+.first
+{
+    margin: 10px;
+}
+
+.second
+{
+    margin: 10px;
+}
+
+#result
+{
+    font-size: 20px;
+    color: #264348;
+    padding: 5px;
+}

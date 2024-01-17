@@ -6,3 +6,30 @@ body
     font-family: cursive;
     color: #264348 ;
 }
+
+#container
+{
+    width: 70%;
+    height: auto;
+    margin: auto;
+    border: 5px double #264348;
+    padding: 20px;
+}
+
+#btncontainer
+{
+    width: 10%;
+    height: auto;
+    margin: 10px auto;
+}
+
+#printbtn
+{
+    font-size: 20px;
+    font-family: cursive;
+    background-color: transparent;
+    border: 5px double #264348;
+    padding: 3px 5px;
+    width: 100%;
+    cursor: pointer;
+}
